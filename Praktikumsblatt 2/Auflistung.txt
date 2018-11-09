@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Übersichtsseite mit Auflistung verfügbarer Studenten</title>
+  </head>
+  <body>
+    <p>Hier die Auflistung aller verfügbarer Studenten:</p>
+    <table>
+    <tr>
+    <th> Vorname </th>
+    <th> Nachname </th>
+    <th> Matrikelnummer </th>
+    </tr>
+    </table>
+  </body>
+</html>
